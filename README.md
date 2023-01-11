@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently learning and working on React JS development.
+- 🔭 I’m currently working on React JS development.
 - 👯 Skilled in HTML5, CSS3, Javascript, React JS, NEXT JS, Tailwind css, Firebase, Node JS, Express JS.
 - 🤔 I’m looking for opportunity to showcase my skills in a full time job.
 - 📫 How to reach me: farazkhushtar077@gmail.com
